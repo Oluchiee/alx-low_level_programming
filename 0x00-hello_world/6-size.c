@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ * main - A program that prints the sizeof varios types on computer
  * Return: Always 0 (Sucess)
  */
 int main(void)
