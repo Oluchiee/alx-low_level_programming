@@ -2,7 +2,8 @@
 #include <stdlib.h>
 /**
  * main - main block
- * Description: a program that prints all possible different combinations of two digits.
+ * Description: a program that prints all possible
+ * different combinations of two digits.
  * Return: 0
  */
 int main(void)
@@ -20,7 +21,7 @@ int main(void)
 				putchar('0' + d);
 				putchar('0' + c);
 
-				if (c + d!= 17)
+				if (c + d != 17)
 				{
 					putchar(',');
 					putchar(' ');
