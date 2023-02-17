@@ -2,14 +2,14 @@
 #include <stdlib.h>
 /**
  * main - main block
- * Description - Get a random with 5
+ * Description: Prints alphabets in lowercase followed by a new line
  * Return: 0
  */
 int main(void)
 {
 	char c = 'a';
 
-	while (c <= '2')
+	while (c <= 'z')
 	{
 		putchar(c);
 		c++;
