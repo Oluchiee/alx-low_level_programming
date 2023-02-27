@@ -1,6 +1,9 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+#include <stdio.h>
+#include <unistd.h>
+
 /**
  * File: main.h
  * Description: contains all functions prototype used in this project
